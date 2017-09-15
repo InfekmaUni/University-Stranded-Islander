@@ -3,6 +3,8 @@
 
 Tasked with creating a game which would allow for data to be collected on user's and the decisions they make such that it can be collaged and assessed by proffesionals to assess player behaviour.
 
+Project developed by a team of 5, with myself as the project leader.
+
 # Main Menu
 ![mainmenu](https://user-images.githubusercontent.com/9573054/30493956-1b2b4c60-9a3e-11e7-912c-0c3980f61a0d.png)
 
