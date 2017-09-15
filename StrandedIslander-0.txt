@@ -1,0 +1,19 @@
+############Stranded Islander Data Collection Logger############
+################################################################
+
+Date: 12/14/2016 10:33:03 AM
+Duration: 11s
+
+##Player Data Summary##
+Amount of times player in Trade: |Accepted: 0| Declined: 0| Stole:0|
+Amount of |successful trades: 0| unsuccessful trades: 0|
+
+###RAW TRADING DATA###
+Succesfull Trades
+
+Declined Trades
+
+Stolen Trades
+
+Unsuccesfull Stolen Trade, this is where both parties stole from eachother
+
